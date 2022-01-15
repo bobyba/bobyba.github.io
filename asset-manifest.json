@@ -1,28 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a0dcff5.chunk.css",
-    "main.js": "/static/js/main.ace854a1.chunk.js",
-    "main.js.map": "/static/js/main.ace854a1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.07465ed9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.07465ed9.js.map",
-    "static/js/2.dc237566.chunk.js": "/static/js/2.dc237566.chunk.js",
-    "static/js/2.dc237566.chunk.js.map": "/static/js/2.dc237566.chunk.js.map",
+    "main.css": "/static/css/main.7f4840f7.css",
+    "main.js": "/static/js/main.0b69c550.js",
+    "static/media/heartBold.svg": "/static/media/heartBold.7f2acd7478dddabf06b32b86b250eb09.svg",
+    "static/media/heart.svg": "/static/media/heart.aaa26e4f0ba2527c27b06181d8805dab.svg",
     "index.html": "/index.html",
-    "static/css/main.5a0dcff5.chunk.css.map": "/static/css/main.5a0dcff5.chunk.css.map",
-    "static/js/2.dc237566.chunk.js.LICENSE.txt": "/static/js/2.dc237566.chunk.js.LICENSE.txt",
-    "static/media/alert.1af188fe.svg": "/static/media/alert.1af188fe.svg",
-    "static/media/close.32557d63.svg": "/static/media/close.32557d63.svg",
-    "static/media/cool.ce6d32a9.svg": "/static/media/cool.ce6d32a9.svg",
-    "static/media/donate.1e593e0d.svg": "/static/media/donate.1e593e0d.svg",
-    "static/media/header.b20c2153.svg": "/static/media/header.b20c2153.svg",
-    "static/media/metamask.39c801c5.svg": "/static/media/metamask.39c801c5.svg",
-    "static/media/star.fd4d959a.svg": "/static/media/star.fd4d959a.svg",
-    "static/media/zefu.fad096ab.svg": "/static/media/zefu.fad096ab.svg"
+    "static/media/search.svg": "/static/media/search.654b00a2eb36b32cc30e861c56536c49.svg",
+    "main.7f4840f7.css.map": "/static/css/main.7f4840f7.css.map",
+    "main.0b69c550.js.map": "/static/js/main.0b69c550.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.07465ed9.js",
-    "static/js/2.dc237566.chunk.js",
-    "static/css/main.5a0dcff5.chunk.css",
-    "static/js/main.ace854a1.chunk.js"
+    "static/css/main.7f4840f7.css",
+    "static/js/main.0b69c550.js"
   ]
 }
